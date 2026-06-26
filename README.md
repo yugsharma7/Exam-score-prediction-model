@@ -1,5 +1,5 @@
 # Exam-score-prediction-model
-Exam-score-prediction
+Exam score prediction
 
 # 📚 Exam Score Prediction using Machine Learning
 
