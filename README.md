@@ -1,4 +1,6 @@
 # Exam-score-prediction-model
+Exam-score-prediction
+
 # 📚 Exam Score Prediction using Machine Learning
 
 Predicting students' exam scores using Machine Learning by analyzing study habits, attendance, previous academic performance, and other relevant factors. This project demonstrates the complete ML workflow, from data preprocessing to model evaluation and comparison.
